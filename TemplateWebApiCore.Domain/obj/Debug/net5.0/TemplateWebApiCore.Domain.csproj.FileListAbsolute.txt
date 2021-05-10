@@ -1,0 +1,12 @@
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\bin\Debug\net5.0\TemplateWebApiCore.Domain.deps.json
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\bin\Debug\net5.0\TemplateWebApiCore.Domain.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\bin\Debug\net5.0\ref\TemplateWebApiCore.Domain.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\bin\Debug\net5.0\TemplateWebApiCore.Domain.pdb
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.csprojAssemblyReference.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.AssemblyInfo.cs
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\ref\TemplateWebApiCore.Domain.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Domain\obj\Debug\net5.0\TemplateWebApiCore.Domain.pdb

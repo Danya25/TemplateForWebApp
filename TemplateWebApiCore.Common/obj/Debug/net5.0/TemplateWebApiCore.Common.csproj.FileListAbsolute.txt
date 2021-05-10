@@ -1,0 +1,17 @@
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.csprojAssemblyReference.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.AssemblyInfoInputs.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.AssemblyInfo.cs
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.csproj.CoreCompileInputs.cache
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.Common.deps.json
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.Common.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\ref\TemplateWebApiCore.Common.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.Common.pdb
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.DAL.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.Domain.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.DAL.pdb
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\bin\Debug\net5.0\TemplateWebApiCore.Domain.pdb
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.csproj.CopyComplete
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\ref\TemplateWebApiCore.Common.dll
+C:\Users\Worker\source\repos\TemplateWebApiCore\TemplateWebApiCore.Common\obj\Debug\net5.0\TemplateWebApiCore.Common.pdb

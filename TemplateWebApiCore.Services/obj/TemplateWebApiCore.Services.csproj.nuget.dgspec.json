@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Services\\TemplateWebApiCore.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\TemplateWebApiCore.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\TemplateWebApiCore.Common.csproj",
+        "projectName": "TemplateWebApiCore.Common",
+        "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\TemplateWebApiCore.Common.csproj",
+        "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj"
+              },
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj",
+        "projectName": "TemplateWebApiCore.DAL",
+        "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj",
+        "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj",
+        "projectName": "TemplateWebApiCore.Domain",
+        "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Services\\TemplateWebApiCore.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Services\\TemplateWebApiCore.Services.csproj",
+        "projectName": "TemplateWebApiCore.Services",
+        "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Services\\TemplateWebApiCore.Services.csproj",
+        "packagesPath": "C:\\Users\\Worker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Worker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\TemplateWebApiCore.Common.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Common\\TemplateWebApiCore.Common.csproj"
+              },
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.DAL\\TemplateWebApiCore.DAL.csproj"
+              },
+              "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj": {
+                "projectPath": "C:\\Users\\Worker\\source\\repos\\TemplateWebApiCore\\TemplateWebApiCore.Domain\\TemplateWebApiCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
